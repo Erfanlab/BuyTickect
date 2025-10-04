@@ -8,3 +8,9 @@ window.addEventListener(
     },
     false
   );
+
+window.addEventListener('scroll', () => {
+
+  document.querySelector('.scroll').textContent = window.pageYOffset;
+
+  }) 
