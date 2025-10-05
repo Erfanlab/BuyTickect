@@ -12,8 +12,6 @@ Version Control: Git, GitHub
 
 🚀 About This Project
 
-The Web Food Project is a personal endeavor to build a dynamic and user-friendly food ordering platform. The application showcases my skills in:
-
 Responsive Design: Ensuring seamless user experiences across devices.
 
 State Management: Utilizing javascript vanila's state management for efficient data handling.
